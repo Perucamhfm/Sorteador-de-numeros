@@ -51,5 +51,5 @@ function limparCampos(){
     let numeroFinal = document.getElementById("ate");
     quantidade.value = "";
     numeroInicial.value = "";
-    numeroFinal.value = "";
+    numeroFinal.value = "1";
 }
